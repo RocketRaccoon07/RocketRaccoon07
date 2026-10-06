@@ -1,8 +1,9 @@
-![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
+<p align="center">
+  <a href="https://ishan-oshada.vercel.app/">
+    <img src="https://ishan-rest.vercel.app/svg/banner/blackhole/EDWARD" style="width:65%;">
+  </a>
+</p>
 
-<div align="center">
-<h2> Edwardklos07 (ROKET_RACOON07) <D𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜 and Designer />! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
-</div>
 
 <div align="center" width="50">
 
@@ -10,17 +11,12 @@
  
   <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?lines=Hello,+my+name+is+Edward+Flores;Welcome+to+my+Profile!;I'm+a+Software+Developer;Let's+build+something+amazing!&font=Fira%20Code&weight=600&size=22&duration=4000&pause=1000&color=FF4500&center=true&vCenter=true&width=600&height=50" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?lines=Hello,+my+name+is+Edward+Flores;Welcome+to+my+Profile!;I'm+a+Software+Developer;Let's+build+something+amazing!&font=Fira%20Code&weight=600&size=22&duration=4000&pause=1000&color=B026FF&center=true&vCenter=true&width=600&height=50" alt="Typing SVG" />
   </a>
-</p>
+
+ </p>
   
-</p>
-
-</div>
- <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me :
-
- <a></a>
-
+   </p>
 
 
 <div align="center">
@@ -65,7 +61,6 @@ Outside tech, 📖 I love to read books, watch movies 🖌️ do painting,skecth
 </p></a> </p>
 
 
-
 ------
 
 ## My Skills Include
@@ -100,12 +95,19 @@ Outside tech, 📖 I love to read books, watch movies 🖌️ do painting,skecth
 </span>  
 
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">Languages-Frameworks-Tools </h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,javascript,typescript,html,css,mysql&theme=dark" /><br>
     <img src="https://skillicons.dev/icons?i=nodejs,express,spring,bootstrap,react,firebase,tailwind,nextjs,linux&theme=dark" /><br>
     <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,mongodb,postgresql,postman,redis,prisma&theme=dark" /><br>
+ 
+ <p align="center">
+  <a href="https://ishan-oshada.vercel.app/">
+    <img src="https://ishan-rest.vercel.app/svg/banner/dev/EDWARD" alt="Banner" style="width:50%;">
+  </a>
+  
+</p>
 </div>
 
 <h4> Operating System </h4>
@@ -128,15 +130,19 @@ Outside tech, 📖 I love to read books, watch movies 🖌️ do painting,skecth
 
 <a href="mailto:aeef07@gmail.com" target="_blank"><img  alt="gmail"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
+ 
+
+![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
 
 
 
 
 
-
-
-
-
+<p align="center">
+  <a href="https://ishan-oshada.vercel.app/">
+    <img src="https://ishan-rest.vercel.app/svg/banner/dev3/Raccoon07" alt="Banner" style="width:100%;">
+  </a>
+</p>
 
 
 
