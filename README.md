@@ -154,5 +154,3 @@ Outside tech, 📖 I love to read books, watch movies 🖌️ do painting,skecth
 
 
 
-
-
