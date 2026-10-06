@@ -61,9 +61,14 @@ Outside tech, 📖 I love to read books, watch movies 🖌️ do painting,skecth
 </p></a> </p>
 
 
-------
+<p align="center">
+  <a href="https://ishan-oshada.vercel.app/">
+    <img src="https://ishan-rest.vercel.app/svg/banner/github" alt="Banner" style="width:15%;">
+  </a>
+</p>
 
-## My Skills Include
+
+## My Skills Include:
 
 <h4> Languages </h4>
 <span> 
@@ -132,19 +137,12 @@ Outside tech, 📖 I love to read books, watch movies 🖌️ do painting,skecth
 </p>
  
 
-![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
-
-
-
-
 
 <p align="center">
   <a href="https://ishan-oshada.vercel.app/">
     <img src="https://ishan-rest.vercel.app/svg/banner/dev3/Raccoon07" alt="Banner" style="width:100%;">
   </a>
 </p>
-
-
 
 
 
