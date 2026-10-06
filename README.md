@@ -19,9 +19,7 @@
 </div>
  <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1MW16ajI0Nm56eTNucHRkYW5rZG83OWFhOWtud283Mjhuc2JyayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/drrV4lXhT2D18Z8E2f/giphy.gif" width="250" alt="Gengar GIF" />
-</p>
+
 
 <div align="center">
 I am a Systems Engineering graduate from the National Autonomous University of Honduras (UNAH), C, C++, Python, Javascript, HTML, CSS  and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
@@ -66,8 +64,7 @@ Outside tech, 📖 I love to read books, watch movies 🖌️ do painting,skecth
 <h2 align="center" style="margin: 5px 10px;">Github Stat.</h2>
 
 
-<img align='center' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
-</div>
+
 
 <i>Happy Coding!</i> 😊
 
