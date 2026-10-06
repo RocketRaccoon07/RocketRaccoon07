@@ -1,3 +1,5 @@
+![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
+
 <div align="center">
 <h2> Edwardklos07 (ROKET_RACOON07) <D𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜 and Designer />! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 </div>
@@ -15,8 +17,11 @@
 </p>
 
 </div>
+ <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-</div>
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1MW16ajI0Nm56eTNucHRkYW5rZG83OWFhOWtud283Mjhuc2JyayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/drrV4lXhT2D18Z8E2f/giphy.gif" width="250" alt="Gengar GIF" />
+</p>
 
 <div align="center">
 I am a Systems Engineering graduate from the National Autonomous University of Honduras (UNAH), C, C++, Python, Javascript, HTML, CSS  and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
