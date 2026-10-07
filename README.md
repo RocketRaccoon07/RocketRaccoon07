@@ -1,6 +1,8 @@
+<img src="https://user-images.githubusercontent.com/3369400/133268513-5bfe2f93-4402-42c9-a403-81c9e86934b6.jpeg">
+
 <p align="center">
   <a href="https://ishan-oshada.vercel.app/">
-    <img src="https://ishan-rest.vercel.app/svg/banner/blackhole/EDWARD" style="width:65%;">
+    <img src="https://ishan-rest.vercel.app/svg/banner/blackhole/EDWARD" style="width:70%;">
   </a>
 </p>
 
@@ -20,15 +22,14 @@
 
 
 <div align="center">
-I am a Systems Engineering graduate from the National Autonomous University of Honduras (UNAH), C, C++, Python, Javascript, HTML, CSS  and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
+I am a Systems Engineering graduate from the National Autonomous University of Honduras (UNAH), C, C++, Python, Javascript, HTML, CSS  and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.I am interested in Web designing, desktop developer, and digital marketing 🌱 I’m currently learning ...Python and Django I’m looking forward to collaborate on open source projects.
+✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉 Outside tech, 📖 I love to read books, watch movies 🖌️ do painting,skecthing, design and 🎵 listen to music, and explore nature outdoors.
 
-I am interested in Web designing, desktop developer, and digital marketing
-🌱 I’m currently learning ...
-Python and Django
-👯 I’m looking forward to collaborate on open source projects.
-✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉
-Outside tech, 📖 I love to read books, watch movies 🖌️ do painting,skecthing, design and 🎵 listen to music, and 🌴 explore nature outdoors.
-📫 Reach out to me at: aeef07@hotmail.com
+<p align="center">
+  <a href="https://ishan-oshada.vercel.app/">
+    <img src="https://ishan-rest.vercel.app/svg/banner/github" alt="Banner" style="width:15%;">
+  </a>
+</p>
 
 <i>Happy Coding!</i> 😊
 
@@ -61,15 +62,6 @@ Outside tech, 📖 I love to read books, watch movies 🖌️ do painting,skecth
 </p></a> </p>
 
 
-<p align="center">
-  <a href="https://ishan-oshada.vercel.app/">
-    <img src="https://ishan-rest.vercel.app/svg/banner/github" alt="Banner" style="width:15%;">
-  </a>
-</p>
-
-
-## My Skills Include:
-
 <h4> Languages </h4>
 <span> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -100,21 +92,6 @@ Outside tech, 📖 I love to read books, watch movies 🖌️ do painting,skecth
 </span>  
 
 
-<h2 align="center">Languages-Frameworks-Tools </h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=java,javascript,typescript,html,css,mysql&theme=dark" /><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,spring,bootstrap,react,firebase,tailwind,nextjs,linux&theme=dark" /><br>
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,mongodb,postgresql,postman,redis,prisma&theme=dark" /><br>
- 
- <p align="center">
-  <a href="https://ishan-oshada.vercel.app/">
-    <img src="https://ishan-rest.vercel.app/svg/banner/dev/EDWARD" alt="Banner" style="width:50%;">
-  </a>
-  
-</p>
-</div>
-
 <h4> Operating System </h4>
 
 <span>
@@ -135,8 +112,22 @@ Outside tech, 📖 I love to read books, watch movies 🖌️ do painting,skecth
 
 <a href="mailto:aeef07@gmail.com" target="_blank"><img  alt="gmail"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
+
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=java,javascript,typescript,html,css,mysql&theme=dark" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,spring,bootstrap,react,firebase,tailwind,nextjs,linux&theme=dark" /><br>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,mongodb,postgresql,postman,redis,prisma&theme=dark" /><br>
  
-<img src="https://user-images.githubusercontent.com/3369400/133268513-5bfe2f93-4402-42c9-a403-81c9e86934b6.jpeg">
+ <p align="center">
+  <a href="https://ishan-oshada.vercel.app/">
+    <img src="https://ishan-rest.vercel.app/svg/banner/dev/EDWARD" alt="Banner" style="width:70%;">
+  </a>
+  
+</p>
+</div>
+ 
+
 
 
 
