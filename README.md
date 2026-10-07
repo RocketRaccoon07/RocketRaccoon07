@@ -136,13 +136,9 @@ Outside tech, 📖 I love to read books, watch movies 🖌️ do painting,skecth
 <a href="mailto:aeef07@gmail.com" target="_blank"><img  alt="gmail"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
  
+<img src="https://user-images.githubusercontent.com/3369400/133268513-5bfe2f93-4402-42c9-a403-81c9e86934b6.jpeg">
 
 
-<p align="center">
-  <a href="https://ishan-oshada.vercel.app/">
-    <img src="https://ishan-rest.vercel.app/svg/banner/dev3/Raccoon07" alt="Banner" style="width:100%;">
-  </a>
-</p>
 
 
 
